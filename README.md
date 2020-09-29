@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm DongYun Hwang, 'Yun', has been nicknamed 'zzid'
-- 🌱 I’m currently learning MSA development and IaC
+- 🌱 I’m currently learning __MSA development__ and __IaC__
 - 💬 Ask me about my code
 - 📫 How to reach me: email - 931010dy@gmail.com
 
