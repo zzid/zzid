@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm DongYun Hwang, 'Yun', has been nicknamed 'zzid'
+#### I'm DongYun Hwang, 'Yun', my friends call me 'zzid'
 - 🌱 I’m currently learning __MSA development__ and __IaC__
 - 💬 Ask me about my code
 - 📫 How to reach me: email - 931010dy@gmail.com
