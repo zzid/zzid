@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm DongYun Hwang, 'Yun', my friends call me 'zzid'
 
-- 🔭 I’m currently working on <strong>DanbiEdu, Inc.</strong> as a <strong>Web FrontEnd Developer</strong>
+- 🔭 I’m currently working on <strong>Danbi Edu, Inc.</strong> as a <strong>Web FrontEnd Developer</strong>
 
 - 📫 How to reach me: email - 931010dy@gmail.com
 
