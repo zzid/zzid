@@ -1,5 +1,3 @@
-### Hi there 👋
-#### I'm DongYun Hwang, 'Yun', my friends call me 'zzid'
 
 - 🔭 I’m currently working on <strong>Danbi Edu, Corp.</strong> as a <strong>Web FrontEnd Developer</strong>
 
